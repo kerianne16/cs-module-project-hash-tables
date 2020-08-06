@@ -1,3 +1,4 @@
+'''
 import random
 
 # Read in all the words in one go
@@ -10,4 +11,4 @@ with open("input.txt") as f:
 
 # TODO: construct 5 random sentences
 # Your code here
-
+'''
